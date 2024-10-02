@@ -22,6 +22,7 @@ def main():
         print("C'est faux ! Votre jeu favori est Outer Wilds et si ce n'est pas le cas, c'est que vous n'y avez pas encore joué ;(.") # Alors, un message est envoyé dans la console
     else:
         print("Je suis tout à fait d'accord, Outer Wilds est le meilleur jeu :).") # Sinon, un autre message est envoyé
+        # Je ne suis pas tout a fait, d'accord, Outer Wild est un très bon jeu, mais pas le meilleur :)
 
 
 if __name__ == '__main__':
