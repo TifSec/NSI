@@ -50,3 +50,6 @@ while True:
 
     else:
         print("Choix invalide. Essayez encore.")
+
+# Ok, j'aimerais que tu rajoute une option qui afficherais combien d'objets tu as dans ton inventaire
+# Une option qui te demande le nom de l'objet et qui t'affiche combien tu en as (ex : epee -> 4)
